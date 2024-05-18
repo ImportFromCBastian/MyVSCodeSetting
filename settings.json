@@ -1,0 +1,53 @@
+{
+	"editor.guides.bracketPairs": true,
+	"editor.insertSpaces": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"code-runner.runInTerminal": true,
+	"editor.formatOnSave": true,
+	"terminal.integrated.enableMultiLinePasteWarning": "never",
+	"editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
+	"editor.tabSize": 2,
+	"editor.fontLigatures": true,
+	"editor.formatOnType": true,
+	"files.autoSave": "onFocusChange",
+	"material-icon-theme.folders.color": "#26a69a",
+	"discord.removeRemoteRepository": true,
+	"explorer.confirmDelete": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.tabCompletion": "on",
+	"editor.detectIndentation": false,
+	"editor.cursorBlinking": "expand",
+	"editor.linkedEditing": true,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.wordWrap": "on",
+	"terminal.integrated.smoothScrolling": true,
+	"material-icon-theme.files.associations": {
+		"*.schema.ts": "rescript"
+	},
+	"material-icon-theme.folders.associations": {
+		"_routes": "routes",
+		"actions": "target",
+		"_utils": "utils"
+	},
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+	"editor.minimap.enabled": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.stickyScroll.enabled": true,
+	"workbench.editor.empty.hint": "hidden",
+	"workbench.sideBar.location": "right",
+	"window.zoomLevel": 1,
+	"workbench.colorTheme": "One Dark Pro",
+	"oneDarkPro.bold": true,
+	"oneDarkPro.vivid": true,
+	"oneDarkPro.editorTheme": "One Dark Pro Darker",
+	"prettier.jsxSingleQuote": true,
+	"prettier.bracketSameLine": true,
+	"prettier.singleAttributePerLine": true,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+	"workbench.activityBar.location": "top",
+	"editor.formatOnPaste": true
+}
